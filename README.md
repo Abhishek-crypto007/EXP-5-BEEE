@@ -40,10 +40,12 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 ### Line Regulation
 <img width="1280" height="905" alt="image" src="https://github.com/user-attachments/assets/7d0dcd77-d2e7-4608-ba30-0d805b3a425b" />
 <img width="1280" height="630" alt="image" src="https://github.com/user-attachments/assets/799d13b7-7864-4014-a608-8d70d1a5b19e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1ef0e0b5-8b7e-49f0-8020-d54e78818b43" />
 
 ### Load Regulation
 <img width="1280" height="625" alt="image" src="https://github.com/user-attachments/assets/aa8e140a-5a36-42b9-b780-cc6d2eb80e75" />
 <img width="1280" height="871" alt="image" src="https://github.com/user-attachments/assets/2606ae84-d5ab-47cc-be8b-cde9b74fb66a" />
+<img width="1366" height="768" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/0712c8fb-e9b0-4556-ab38-d9e9c574ec71" />
 
 ## PRECAUTIONS:
 
